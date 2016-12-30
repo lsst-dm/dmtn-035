@@ -18,11 +18,15 @@ doc_title: 'Winter 2013 LSST DM Data Challenge Release Notes'
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
     - 'Mario Juric'
+    - 'Andrew Becker'
+    - 'Richard Shaw'
+    - 'K. Simon Krughoff'
+    - 'Jeff Kantor'
 
 # Current document revision date, YYYY-MM-DD
 # Only set this field if you need to manually fix the revision date;
 # the revision date is obtained from the HEAD Git commit otherwise.
-# last_revised: 'YYYY-MM-DD'
+last_revised: '2013-04-25'
 
 # Version. Use Semvar, e.g., 1.0, including .dev, as necessary
 # This version string should correspond to the git tag when the document is published on Zenodo
