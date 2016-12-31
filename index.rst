@@ -559,3 +559,7 @@ References
 .. bibliography:: bibliography.bib
    :encoding: latex+latin
    :style: plain
+
+.. note::
+
+   This document was originally published as an LSST TRAC page at https://dev.lsstcorp.org/trac/wiki/DC/Winter2013
