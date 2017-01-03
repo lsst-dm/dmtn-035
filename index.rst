@@ -228,7 +228,7 @@ Example Queries
             AND decl BETWEEN 0.03 and 0.04
 
 
-Alternatively, you can use `scisql <http://nebel.rc.fas.harvard.edu/mjuric/std/w12/external/scisql/0.1/scisql-0.1/doc/>`_ geometry functions; this should speed up queries over large area:
+Alternatively, you can use `scisql <https://lsst-web.ncsa.illinois.edu/schema/sciSQL/>`_ geometry functions; this should speed up queries over large area:
 
 .. code-block:: sql
 
