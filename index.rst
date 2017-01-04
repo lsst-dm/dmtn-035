@@ -357,21 +357,21 @@ We construct completeness and contamination profiles for the Winter 2013 DC.
    :width: 400 px
    :align: center
 
-In addition to comparing to the DEEP2 catalogs, we compare the completeness of the Annis (2011) :cite:`2014ApJ...794..120A` catalogs to the Winter 2013 results.
+In addition to comparing to the DEEP2 catalogs, we compare the completeness of the Annis (2014) :cite:`2014ApJ...794..120A` catalogs to the Winter 2013 results.
 The Winter 2013 catalog is significantly less complete at bright magnitudes.
 We are looking more into this, but early evidence suggests this is due primarily to background subtraction around bright stars and to the fact that multiple peaks within a single detection footprint are not de-blended into individual sources for the Winter 2013 runs.
 We have placed a 5-sigma S/N threshold on the Annis catalog and the Winter 2013 catalog does not go significantly below 5-sigma.
 With these cuts the Winter 2013 catalog goes ~0.2 mag deeper than the Annis catalog.
 
 The completeness plot is not the whole story.
-We also look at the trends in S/N between the Annis (2011) :cite:`2014ApJ...794..120A` catalog and the Winter 2013 catalog.
+We also look at the trends in S/N between the Annis (2014) :cite:`2014ApJ...794..120A` catalog and the Winter 2013 catalog.
 
 .. image:: /_static/snr.png
    :target: _static/snr.png
    :width: 400 px
    :align: center
 
-This shows that for constant S/N the Winter 2013 catalog goes about 0.75 mag deeper than the Annis (2011) :cite:`2014ApJ...794..120A` catalog.
+This shows that for constant S/N the Winter 2013 catalog goes about 0.75 mag deeper than the Annis (2014) :cite:`2014ApJ...794..120A` catalog.
 We also see that the Winter 2013 catalog is 10-sigma at our 50% limiting magnitude of 24.2.
 This suggests that a 5-sigma threshold on the coadd to seed forced photometry is too conservative and that we should have pushed to 3-sigma (or fainter) in the coadd to reach completeness in the coadded catalog at 5-sigma.
 
@@ -386,7 +386,7 @@ The following figure shows that there is less than 5% relative contamination to 
 
 The production pipelines perform photometric calibration using the catalog of Ivezic (2007) :cite:`2007AJ....134..973I`.
 In this analysis we look at the distribution of forced photometry principal colors of stellar sources, described in Ivezic (2004) :cite:`2004AN....325..583I`.
-We use the star-galaxy separation provided by the Annis (2011) :cite:`2014ApJ...794..120A` Stripe82 catalog to select point sources for the analysis; we do not do any native star-galaxy separation.
+We use the star-galaxy separation provided by the Annis (2014) :cite:`2014ApJ...794..120A` Stripe82 catalog to select point sources for the analysis; we do not do any native star-galaxy separation.
 The figure below illustrates the process of defining a principal color (adopted from Ivezic (2004) :cite:`2004AN....325..583I`):
 
 .. image:: /_static/zeljko_w.png
